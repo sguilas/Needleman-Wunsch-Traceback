@@ -4,3 +4,13 @@ This program uses the needleman wunch algorithm to find similarities between str
 It uses a 2D array to assign alignment scores as the strings are checked then traces back through the alignemnt scores until it rebuilds the string with the similarities aligned.
 
 This was a class project where we were given instruction on the basic premise but was left to figure out for ourselves.
+
+How to use:
+
+Just put 2 strings in the constructor.
+Ex. 
+String a = "ABDCG";
+String b = "ACBDG";
+dna(a,b);
+
+Should return the two strings deconstrcuted and aligned.
