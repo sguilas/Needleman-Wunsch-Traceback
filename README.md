@@ -13,4 +13,4 @@ String a = "ABDCG";
 String b = "ACBDG";
 dna(a,b);
 
-Should return the two strings deconstrcuted and aligned.
+Should return the two strings deconstructed and aligned.
